@@ -1,1 +1,0 @@
-# Finance_Logger_With_Typescript
